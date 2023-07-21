@@ -16,7 +16,7 @@ throwParty(){
 	return `Welcome to the party ${allNames}`
 	}
 }
-
+/* FORTESTING ONLY
 
 const party = new PartyPlanner();
 
@@ -27,7 +27,7 @@ console.log(party.throwParty()); // prints "Welcome to the party James"
 
 party.addToGuestList("Alvin");
 console.log(party.throwParty()); // prints "Welcome to the party James and Alvin"
-
+*/
 /*****************************************************************************/
 /***************** DO NOT MODIFY ANYTHING UNDER THIS LINE ********************/
 
